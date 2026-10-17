@@ -1,0 +1,15 @@
+{
+  "id": "flowmusic",
+  "source": "https://apimart.ai/en/pricing",
+  "extracted_at": "2026-10-17T19:25:24Z",
+  "prices": {
+    "default": {
+      "list": 0.075,
+      "effective": 0.06
+    }
+  },
+  "rates": {},
+  "unit": "per generation",
+  "hook": "from $0.01 per generation on the APIMart route",
+  "model_page": "https://apimart.ai/model/flow-music"
+}
